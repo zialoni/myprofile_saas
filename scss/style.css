@@ -197,6 +197,7 @@ ul {
   color: #f15025;
   text-align: center;
   background: #343a40;
+  height: 100%;
 }
 
 .my-projects .portfolio-thumb {
@@ -516,10 +517,11 @@ ul {
     -ms-grid-columns: (1fr)[3];
         grid-template-columns: repeat(3, 1fr);
     grid-gap: 3.5rem;
+    grid-row-gap: 7.2rem;
+    padding-top: 7rem;
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
-    background: #353531;
   }
 }
 /*# sourceMappingURL=style.css.map */

@@ -91,7 +91,8 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 3.5rem;
+    grid-row-gap: 7.2rem;
+    padding-top: 7rem;
     align-items: center;
-    background: #353531;
   }
 }
